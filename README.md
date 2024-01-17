@@ -5,6 +5,7 @@ https://github.com/DataTalksClub/data-engineering-zoomcamp
 
 
 * [Data Engineering Zoomcamp 2024 - Pre-Launch Q&A](https://www.youtube.com/watch?v=91b8u9GmqB4)
+* [Data Engineering Zoomcamp 2024 - Kickoff](https://www.youtube.com/watch?v=AtRhA-NfS24)
 
 ## Week 1
 
